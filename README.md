@@ -22,3 +22,13 @@ Task List:
 - [ ] Move weights to input textfile and out of script
 - [ ] Better code commenting
 - [ ] Output in D3.js-compatible JSON file
+
+
+Markdown Tests
+--------------
+
+```
+print "this is a test"
+for i in range(0, 100):
+   print str(i)
+```
